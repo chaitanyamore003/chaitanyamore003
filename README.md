@@ -47,8 +47,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyamore003&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamore003&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=chaitanyamore003&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chaitanyamore003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,7 +57,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaitanyamore003&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://streak-stats.demolab.com?user=chaitanyamore003&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,7 +81,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chaitanyamore003/chaitanyamore003/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/chaitanyamore003/chaitanyamore003/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
