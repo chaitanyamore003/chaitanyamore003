@@ -80,7 +80,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/chaitanyamore003/chaitanyamore003/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/chaitanyamore003/chaitanyamore003/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
