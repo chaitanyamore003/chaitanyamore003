@@ -80,21 +80,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chaitanyamore003/chaitanyamore003/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-# 💻 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="50" width="50" />
-  </a>
+  <img src="https://github.com/chaitanyamore003/chaitanyamore003/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -106,12 +92,6 @@
 * Built using React and Redux
 * Add to cart & remove from cart functionality
 * Responsive UI and state management
-
-## 🔍 Criminal Identification System
-
-* Java + JFrame based project
-* Designed for criminal data management and identification
-* Major academic project
 
 ## 📚 DSA Practice Repository
 
