@@ -62,22 +62,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyamore003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamore003&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
