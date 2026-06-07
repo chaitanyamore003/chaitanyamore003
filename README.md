@@ -54,14 +54,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaitanyamore003&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
