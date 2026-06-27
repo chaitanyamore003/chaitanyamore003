@@ -26,7 +26,7 @@
 <a href="https://github.com/chaitanyamore003" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" />
 </a>
-<a href="https://www.linkedin.com](https://www.linkedin.com/in/chaitanya-more-472203244/" target="blank">
+<a href="https://www.linkedin.com/in/chaitanya-more-472203244/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" />
 </a>
 <a href="mailto:chaitanyamore003@gmail.com">
