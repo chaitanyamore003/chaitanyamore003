@@ -1,9 +1,9 @@
 # <h1 align="center">Hi 👋, I'm Chaitanya More</h1>
 
 <h3 align="center">🚀 C++ Developer | MERN Stack Learner | DSA Enthusiast | Software Engineering Student</h3>
-
+---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer;MERN+Stack+Developer;Passionate+about+DSA+and+Problem+Solving;Building+Projects+and+Learning+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer;MERN+Stack+Developer;Passionate+about+DSA+and+Problem+Solving;Building+Projects+and+Learning+Everyday" alt="Typing SVG" />
 </p>
 ---
 
