@@ -1,104 +1,68 @@
-# <h1 align="center">Hi 👋, I'm Chaitanya More</h1>
+# [cite_start]Chaitanya More [cite: 3]
+**Software Development Engineer | Full-Stack Developer (MERN & Spring Boot) | [cite_start]DSA Enthusiast** [cite: 5, 8]
 
-<h3 align="center">🚀 C++ Developer | MERN Stack Learner | DSA Enthusiast | Software Engineering Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer;MERN+Stack+Developer;Passionate+about+DSA+and+Problem+Solving;Building+Projects+and+Learning+Everyday" alt="Typing SVG" />
-</p>
+---
 
 ## 🌟 About Me
+* [cite_start]🎓 B.Tech in Information Technology student at DY Patil University, Pune [cite: 5, 10][cite_start], maintaining a 9.24/10 CGPA (Expected May 2027)[cite: 5, 10, 14].
+* [cite_start]💻 Results-driven developer with proven experience architecting scalable full-stack web applications using the MERN stack and Java with Spring Boot[cite: 5].
+* [cite_start]🔐 Proficient in designing robust RESTful APIs, implementing JWT and session-based authentication [cite: 6][cite_start], and developing responsive, user-centric frontend interfaces[cite: 6].
+* [cite_start]🧠 Strong foundation in Data Structures, Algorithms, and complex problem-solving [cite: 7][cite_start], with over 220+ problems solved on LeetCode[cite: 37].
+* [cite_start]🎯 Seeking to leverage technical expertise as a Software Development Engineer at a fast-paced, product-based company[cite: 8].
 
-* 🎓 Software Engineering & Cyber Security Student
-* 💻 Passionate about Data Structures & Algorithms
-* 🚀 Currently learning MERN Stack Development
-* 🧠 Solving problems on LeetCode & Codeforces
-* 🔥 Interested in Full Stack Development and Competitive Programming
-* 📚 Exploring System Design, Backend Development, and Cloud Computing
-* ⚡ Goal: Become a skilled Software Engineer and Competitive Programmer
+---
+
+## 🛠️ Technical Skills
+* [cite_start]**Languages:** C, C++, Java, JavaScript, SQL [cite: 17]
+* [cite_start]**Frontend:** HTML5, CSS3, React.js, Tailwind CSS, Redux Toolkit, Vite, Responsive Web Design [cite: 17]
+* [cite_start]**Backend:** Node.js, Express.js, Spring Boot, REST APIs, JWT Authentication, Session-based Authentication [cite: 17]
+* [cite_start]**Databases:** MongoDB, MySQL [cite: 17]
+* [cite_start]**Tools & Core Subjects:** Git, GitHub, VS Code, Postman, npm [cite: 17][cite_start], Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks [cite: 17]
+
+---
+
+## 🚀 Featured Projects
+
+### [Task Flow](https://github.com/chaitanyamore003) | [cite_start]*React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Express Session, Axios* [cite: 19]
+* [cite_start]Engineered a full-stack productivity web application inspired by Notion and Tick Tick [cite: 21][cite_start], integrating seamless task management, structured note-taking, an interactive dashboard, and productivity tracking[cite: 21].
+* [cite_start]Implemented secure session-based authentication [cite: 22][cite_start], and constructed reusable React components utilizing Context API and custom hooks to ensure efficient state management[cite: 22].
+* [cite_start]Developed RESTful APIs to power core application features [cite: 23][cite_start], and crafted a fully responsive, dark-mode-enabled UI adhering to clean architecture principles[cite: 23].
+
+### [Ledger Flow](https://github.com/chaitanyamore003) | [cite_start]*Node.js, Express.js, MongoDB, JWT, Express Session, Nodemailer* [cite: 28]
+* [cite_start]Architected a secure banking backend to streamline account management and transaction processing using a modular, scalable architecture[cite: 30].
+* [cite_start]Implemented robust JWT authentication with refresh token rotation and session management [cite: 31][cite_start], and utilized Nodemailer-driven email verification to strengthen platform security[cite: 31].
+
+### [Airbnb Clone](https://github.com/chaitanyamore003) | [cite_start]*Node.js, Express.js, MongoDB, EJS, Bootstrap* [cite: 24]
+* [cite_start]Engineered a full-stack property-listing platform supporting complete CRUD operations [cite: 26][cite_start], structured with RESTful APIs within an MVC architectural pattern[cite: 26].
+* [cite_start]Integrated secure user authentication protocols [cite: 27][cite_start], and designed a responsive Bootstrap-based UI to facilitate seamless browsing and property listing management[cite: 27].
+
+### [2048 Game](https://github.com/chaitanyamore003) | [cite_start]*HTML, CSS, JavaScript* [cite: 32]
+* [cite_start]Created an interactive browser-based 2048 puzzle game featuring smooth tile animations [cite: 34][cite_start], and integrated dynamic real-time score tracking[cite: 34].
+* [cite_start]Programmed core game algorithms including tile-merge mechanics and grid state persistence [cite: 35][cite_start], and implemented win/loss detection using vanilla JavaScript[cite: 35].
+* [cite_start]Designed a clean, responsive interface to deliver a seamless experience across desktop devices [cite: 36][cite_start], ensuring engaging gameplay across mobile devices as well[cite: 36].
+
+---
+
+## 🏆 Achievements & Leadership
+* [cite_start]**Competitive Programming:** Solved 220+ Data Structures & Algorithms problems on LeetCode [cite: 37][cite_start], covering Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming, and more[cite: 37].
+* [cite_start]**Full-Stack Execution:** Built and deployed multiple full-stack applications using the MERN stack [cite: 39][cite_start], covering frontend, backend, and database layers end to end[cite: 39].
+* [cite_start]**Backend Architecture:** Gained hands-on experience implementing authentication systems [cite: 40][cite_start], mastering REST API design and backend architecture[cite: 40].
+* [cite_start]**Training & Placement Coordinator:** Facilitate seamless communication between 200+ students and hiring recruiters at DY Patil University [cite: 42, 44][cite_start], streamlining recruiter-candidate coordination[cite: 44].
+* [cite_start]**Placement Operations:** Manage structured company records, job description repositories, and placement analytics for 15+ recruiting firms [cite: 45][cite_start], driving data-informed placement strategies[cite: 45].
+* [cite_start]**Technical Mentorship:** Collaborate cross-functionally with faculty and student teams to orchestrate technical training sessions [cite: 46][cite_start], significantly elevating student interview readiness through mock interview drives[cite: 46].
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=chaitanyamore003&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chaitanyamore003&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/chaitanyamore003" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" />
-</a>
-<a href="https://www.linkedin.com/in/chaitanya-more-472203244/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" />
-</a>
-<a href="mailto:chaitanyamore003@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50" />
-</a>
-</p>
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,spring,js,html,css,tailwind,react,nodejs,express,mongodb,mysql,postman,git,github,vscode,idea,npm,vite&theme=dark" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=chaitanyamore003&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chaitanyamore003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaitanyamore003/chaitanyamore003/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 React Shopping App
-
-* Built using React and Redux
-* Add to cart & remove from cart functionality
-* Responsive UI and state management
-
-## 📚 DSA Practice Repository
-
-* Data Structures & Algorithms in C++
-* Covers arrays, linked lists, trees, graphs, DP, and more
-
----
-
-# 📌 Current Focus
-
-```txt
-✔ Mastering Data Structures & Algorithms
-✔ Building Full Stack MERN Projects
-✔ Improving Problem Solving Skills
-✔ Exploring Backend Development
-✔ Learning System Design Concepts
-```
-
----
-
-# ⚡ Fun Fact
-
-```txt
-I enjoy turning complex problems into clean and efficient code.
-```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaitanyamore003&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+* [cite_start]**Email:** chaitanyamore003@gmail.com [cite: 4]
+* [cite_start]**LinkedIn:** [Chaitanya More](https://www.linkedin.com/in/chaitanya-more-472203244/) [cite: 4]
+* [cite_start]**GitHub:** [chaitanyamore003](https://github.com/chaitanyamore003) [cite: 4]
+* [cite_start]**LeetCode:** [Profile](https://leetcode.com/) [cite: 38]
