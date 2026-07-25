@@ -13,7 +13,7 @@ Full-Stack Developer • MERN • Spring Boot • DSA Enthusiast
 # 👨‍💻 About Me
 
 - 🎓 B.Tech Information Technology student at **D. Y. Patil University, Pune**
-- 📈 Current CGPA: **9.24 / 10**
+- 📈 Current CGPA: **8.56 / 10**
 - 💻 Passionate about Full-Stack Development and Backend Engineering
 - 🚀 Skilled in **MERN Stack** and currently learning **Spring Boot**
 - 🧠 Solved **220+ Data Structures & Algorithms** problems on LeetCode
