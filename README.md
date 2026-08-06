@@ -76,7 +76,7 @@ Full-Stack Developer • MERN • Spring Boot • DSA Enthusiast
 # 🏆 Achievements
 
 - 💯 Solved **220+ DSA Problems** on LeetCode.
-- 🎓 Maintaining a **9.24 CGPA** in B.Tech Information Technology.
+- 🎓 Maintaining a **8.56 CGPA** in B.Tech Information Technology.
 - 👨‍💼 Serving as **Training & Placement Coordinator** for **200+ students**.
 - 🚀 Built multiple full-stack web applications using MERN and Java.
 
